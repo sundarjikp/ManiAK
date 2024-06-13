@@ -14,4 +14,8 @@ public class RequestSpecification {
 	}
 	
 
+	private void car() {
+		System.out.println("CAR");
+	}
+
 }
