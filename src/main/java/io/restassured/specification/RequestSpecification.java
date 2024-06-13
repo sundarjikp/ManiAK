@@ -13,11 +13,21 @@ public class RequestSpecification {
 		System.out.println("method3");
 	}
 	
-
 	private void car() {
 		System.out.println("CAR");
 	}
+	private void stu4() {
+		System.out.println("method4");
+	}
+
 	private void bike() {
 		System.out.println("bike");
+	}
 	
 }
+
+
+	
+
+
+
