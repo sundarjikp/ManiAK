@@ -20,8 +20,14 @@ public class RequestSpecification {
 		System.out.println("method4");
 	}
 
+	private void bike() {
+		System.out.println("bike");
+	}
+	
+}
+
 
 	
 
 
-}
+
