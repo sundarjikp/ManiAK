@@ -17,5 +17,7 @@ public class RequestSpecification {
 	private void car() {
 		System.out.println("CAR");
 	}
-
+	private void bike() {
+		System.out.println("bike");
+	
 }
