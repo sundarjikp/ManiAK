@@ -10,4 +10,8 @@ public class RequestSpecification {
 		System.out.println("Method2");
 	}
 
+	private void car() {
+		System.out.println("CAR");
+	}
+
 }
