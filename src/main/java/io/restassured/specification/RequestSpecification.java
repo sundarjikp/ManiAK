@@ -25,5 +25,7 @@ public class RequestSpecification {
 		System.out.println("method5");
 	}
 
-
+	private void stu6() {
+		System.out.println("method6");
+	}
 }
