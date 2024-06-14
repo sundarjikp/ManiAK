@@ -28,4 +28,10 @@ public class RequestSpecification {
 	private void stu6() {
 		System.out.println("method6");
 	}
+	private void stu7() {
+		System.out.println("method7");
+	}
+	private void stu8() {
+		System.out.println("method8");
+	}
 }

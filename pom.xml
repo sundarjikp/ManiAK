@@ -42,8 +42,6 @@
     <version>7.10.2</version>
     <scope>test</scope>
 </dependency>
-
-
   	<dependency>
   		<groupId>com.test.api</groupId>
   		<artifactId>ApiTest</artifactId>
